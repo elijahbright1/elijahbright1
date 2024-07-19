@@ -17,7 +17,7 @@ My degree in computing & digital media has led me to develop a passion for cyber
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Create Pishing Email                          | <a href="https://github.com/elijahbright1/Mastercard-Job-Simulation/blob/main/README.md"> Pishing Job Simulation</a>|
+| Create Pishing Emails                         | <a href="https://github.com/elijahbright1/Mastercard-Job-Simulation/blob/main/README.md"> Pishing Job Simulation</a>|
 | Identifying Vulnerablilites                   | <a href="https://www.hackthissite.org">Pen Testing Job Simulation</a>|
 
 ## Tools
