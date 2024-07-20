@@ -15,7 +15,7 @@ My degree in computing & digital media has led me to develop a passion for cyber
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://github.com/elijahbright1/Common-Wealth-Bank-Job-Simulation/blob/main/README.md"> Commonwealth Bank Job</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/elijahbright1/Common-Wealth-Bank-Job-Simulation/blob/main/README.md"> Commonwealth Bank Job Simulation</a>|
 | Mitigating Malware Attacks                    | <a href="https://github.com/elijahbright1/Telstra-Job-Simulation/blob/main/README.md"> Malware Attack Job Simulation</a>|
 | Create Pishing Emails                         | <a href="https://github.com/elijahbright1/Mastercard-Job-Simulation/blob/main/README.md"> Pishing Job Simulation</a>|
 | Identifying Vulnerablilites                   | <a href="https://www.hackthissite.org">Pen Testing Job Simulation</a>|
