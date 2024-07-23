@@ -13,7 +13,7 @@ My degree in computing & digital media has led me to develop a passion for cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/elijahbright1/Incident-Analysis-LAB"> Incident Analysis Lab</a>|
-| Conduct a security audit                      | <a href="https://github.com/elijahbright1/Botium-Toys-Security-Audit/blob/main/README.md"> Security Audit Lab<a/>|
+| Conduct Security Audits                      | <a href="https://github.com/elijahbright1/Botium-Toys-Security-Audit/blob/main/README.md"> Security Audit Lab<a/>|
 | Incident Response Planning and Execution      | <a href="https://github.com/elijahbright1/Common-Wealth-Bank-Job-Simulation/blob/main/README.md"> Commonwealth Bank Job Simulation</a>|
 | Mitigating Malware Attacks                    | <a href="https://github.com/elijahbright1/Telstra-Job-Simulation/blob/main/README.md"> Malware Attack Job Simulation</a>|
 | Create Pishing Emails                         | <a href="https://github.com/elijahbright1/Mastercard-Job-Simulation/blob/main/README.md"> Pishing Job Simulation</a>|
