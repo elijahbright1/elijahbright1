@@ -40,7 +40,8 @@ My degree in computing & digital media has led me to develop a passion for cyber
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Chronicle-005571?style=for-the-badge&logo=Chronicle&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Chronicle-005571?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
 
 </div>
 
