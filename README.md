@@ -18,6 +18,7 @@ My degree in computing & digital media has led me to develop a passion for cyber
 | Mitigating Malware Attacks                    | <a href="https://github.com/elijahbright1/Telstra-Job-Simulation/blob/main/README.md"> Malware Attack Job Simulation</a>|
 | Create Pishing Emails                         | <a href="https://github.com/elijahbright1/Mastercard-Job-Simulation/blob/main/README.md"> Pishing Job Simulation</a>|
 | Identifying Vulnerablilites                   | <a href="https://www.hackthissite.org">Pen Testing Job Simulation</a>|
+| Utilize Linux Commands                        | Linux OS Lab      |
 
 ## Tools
 
@@ -52,6 +53,9 @@ My degree in computing & digital media has led me to develop a passion for cyber
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Detection Labs
+- SOC Automation Projects
 - Forge Jobs Simulations
+- Incident response & Analysis Labs
+- Linux OS Labs
+- SQL Labs
